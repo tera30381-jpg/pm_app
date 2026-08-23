@@ -1,7 +1,7 @@
 {
     "app_name": "PayMemory VPN",
     "package_name": "com.erwan.paymemoryvpn",
-    "version": "1.2",
+    "version": "1.3",
     "versionCode": 2,
     "apk_url": "https://github.com/zkprovpn-lgtm/app_identifier/raw/refs/heads/main/app-release.apk",
     "update_required": false,
