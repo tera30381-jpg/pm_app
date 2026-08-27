@@ -2,7 +2,7 @@
     "app_name": "PayMemory VPN",
     "package_name": "com.erwan.paymemoryvpn",
     "version": "1.2",
-    "versionCode": 1,
+    "versionCode": 2,
     "apk_url": "https://memoryvpn.net/upload/apk/PayMemoryVPN.apk",
     "update_required": false,
     "release_notes": [
