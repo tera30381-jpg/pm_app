@@ -4,7 +4,7 @@
     "version": "1.2",
     "versionCode": 2,
     "apk_url": "https://memoryvpn.net/uploads/apk/PayMemoryVPN.apk",
-    "update_required": false,
+    "update_required": true,
     "release_notes": [
     "Bug fixes",
     "Optimization",
