@@ -1,14 +1,13 @@
 {
-    "app_name": "PayMemory VPN",
+    "app_name": "PayMemory",
     "package_name": "com.erwan.paymemoryvpn",
-    "version": "1.2",
-    "versionCode": 2,
+    "version": "1.3",
+    "versionCode": 3,
     "apk_url": "https://memoryvpn.net/uploads/apk/PayMemoryVPN.apk",
-    "update_required": true,
+    "update_required": false,
     "release_notes": [
-    "Bug fixes",
-    "Optimization",
-    "Performance improvements",
+    "Improve GCP Server",
+    "Added New Features",
     "Security improvements"
   ]
 }
