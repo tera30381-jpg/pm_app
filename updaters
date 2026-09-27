@@ -1,6 +1,6 @@
 {
-    "app_name": "PayMemory",
-    "package_name": "com.erwan.paymemoryvpn",
+    "app_name": "sPayMemory",
+    "package_name": "scom.erwan.paymemoryvpn",
     "version": "1.3",
     "versionCode": 3,
     "apk_url": "https://memoryvpn.net/uploads/apk/PayMemoryVPN.apk",
